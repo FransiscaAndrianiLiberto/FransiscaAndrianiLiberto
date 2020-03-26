@@ -1,0 +1,10 @@
+body{font-family: georgia}
+img{border-radius: 50%;width: 200px;height: 200px;border-style: dashed;border-color: #afcbff;display: block;margin-left: auto;margin-right: auto;}
+body{background-image: url(backgound.png);background-attachment: fixed;}
+p{text-align: justify-all;}
+h3{font-family: console;font-size: 20px;text-align: center;color: #ffabab}
+button{background-color: #ffffd1}
+h2{font-family: courier new;font-size: 20px;color: #6eb5ff;font-weight: bold}
+h1{font-family: console;font-weight: bold; color: #a79aff;text-align: center;}
+div{color: #a79aff;border: 5px solid currentcolor;opacity: 0.6}
+h4{font-family: courier new;font-size: 20px;color: #6eb5ff;font-weight: bold;}
